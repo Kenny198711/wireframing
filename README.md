@@ -10,3 +10,19 @@ wireframing is useful when it comes to design
 -------------------------------------------------
 | Footer: About | Contact | Social Links        |
 -------------------------------------------------
+
+
+
+
+Home
+│
+├── Products
+│     ├── Men
+│     ├── Women
+│     └── Kids
+│
+├── About Us
+│
+├── Blog
+│
+└── Contact Us
