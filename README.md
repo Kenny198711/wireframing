@@ -1,6 +1,8 @@
 # wireframing
 wireframing is useful when it comes to design
 
+Structure of Wireframe
+Layout 
 -------------------------------------------------
 | Logo | Navigation Menu | Search Bar           | ← Header
 -------------------------------------------------
@@ -12,7 +14,7 @@ wireframing is useful when it comes to design
 -------------------------------------------------
 
 
-
+Navigation
 
 Home
 │
@@ -28,7 +30,7 @@ Home
 └── Contact Us
 
 
-
+Content Placement
 -------------------------------------------------
 | Product Image | Product Title & Price         |
 |                | Add to Cart Button            |
@@ -39,3 +41,8 @@ Home
 -------------------------------------------------
 | Related Products (thumbnails)                  |
 -------------------------------------------------
+
+
+Fuctionality
+
+
